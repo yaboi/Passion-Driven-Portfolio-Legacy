@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
@@ -94,7 +94,7 @@
                 </div>
                 <div class="skills grid_5">
                     <h2>Product Design</h2>
-                    <p>Effectivley delivering products through the use of a proven process called Lean UX, a combination of Lean Startup</a> and User Experience.</p>
+                    <p>Effectivley delivering products through the use of a proven process called Lean UX, a combination of Lean Startup and User Experience.</p>
                 </div>
                 <div class="skills grid_5">
                     <h2>Front-End Development</h2>
